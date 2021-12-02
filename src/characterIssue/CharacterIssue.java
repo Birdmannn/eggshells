@@ -9,7 +9,7 @@ public class CharacterIssue {
 		
 		System.out.println("Input your word: ");
 		str =TextIO.getln();
-		System.out.println("Input the character you wish to find: ");
+		System.out.println("Please kindly input the character you wish to find: ");
 		ch = TextIO.getlnChar();
 		System.out.println("The number of " + ch + "'s in \"" + str + "\" is " + countChar(str, ch) + ".");
 		
