@@ -7,7 +7,7 @@ public class CharacterIssue {
 		String str;
 		char ch;
 		
-		System.out.println("Input your word: ");
+		System.out.println("Input your phrase: ");
 		str =TextIO.getln();
 		System.out.println("Please kindly input the character you wish to find: ");
 		ch = TextIO.getlnChar();
